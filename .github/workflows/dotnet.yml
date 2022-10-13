@@ -1,22 +1,18 @@
 name: .NET
 
 on:
-  push:
-    branches: [ "**" ]
-    paths: ["/**"]
-    
+  push:    
   pull_request:
     branches: [ "main" ]
-    paths: ["/**"]
+    paths-ignore:
+    - 'README.md'  
+env:
+  DOTNET_VERSION: '6.0.x'
 
 jobs:
   build:
 
     runs-on: ubuntu-latest
-    
-    defaults:
-      run:
-        working-directory: "./"
 
     steps:
     - uses: actions/checkout@v3
