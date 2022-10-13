@@ -1,21 +1,19 @@
 name: .NET
 
 on:
-  push:  
-    paths: ["backend/**"]  
+  push:
+    branches: [ "**" ]
+    paths: ["backend/**"]
     
   pull_request:
-    branches: [ "main" ]
+    branches: ["main"]
     paths: ["backend/**"]
-    paths-ignore:
-    - 'README.md'  
-env:
-  DOTNET_VERSION: '6.0.x'
 
 jobs:
   build:
 
     runs-on: ubuntu-latest
+    
     defaults:
       run:
         working-directory: "./backend"
