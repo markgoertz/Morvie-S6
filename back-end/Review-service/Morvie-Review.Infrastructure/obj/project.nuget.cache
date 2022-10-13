@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0aPoPqZjwSeECuZc2ZA9FV2FvwqSSvtZpxm32ZcHsCXiEyMKcGIZE/4KVEjp9AEYdoawsAqJOOC9MNKk4DSbMQ==",
+  "success": true,
+  "projectFilePath": "D:\\S6-Fontys\\Morvie-S6\\Morvie-Review.Infrastructure\\Morvie-Review.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\goert\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\goert\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
