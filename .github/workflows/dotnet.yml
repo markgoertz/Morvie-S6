@@ -1,29 +1,24 @@
 name: .NET
 
 on:
-  push:
-    branches: [ "**" ]
-    paths: ["/**"]
-    
+  push:    
   pull_request:
     branches: [ "main" ]
-    paths: ["/**"]
+    paths-ignore:
+    - 'README.md'  
+env:
+  DOTNET_VERSION: '6.0.x'
 
 jobs:
   build:
-
-    runs-on: ubuntu-latest
-    
-    defaults:
-      run:
-        working-directory: "./"
-
+    name: build-and-test-${{matrix.os}}
+    runs-on: ${{ matrix.os }}
     steps:
     - uses: actions/checkout@v3
     - name: Setup .NET
       uses: actions/setup-dotnet@v3
       with:
-        dotnet-version: 6.0.x
+        dotnet-version: ${{ env.DOTNET_VERSION }}
     - name: Restore dependencies
       run: dotnet restore
     - name: Build
