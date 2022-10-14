@@ -1,0 +1,17 @@
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview.Infrastructure\bin\Release\net6.0\MorvieReview.Infrastructure.deps.json
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview.Infrastructure\bin\Release\net6.0\MorvieReview.Infrastructure.dll
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview.Infrastructure\bin\Release\net6.0\MorvieReview.Infrastructure.pdb
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview.Infrastructure\bin\Release\net6.0\MorvieReview.Application.dll
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview.Infrastructure\bin\Release\net6.0\MorvieReview.Domain.dll
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview.Infrastructure\bin\Release\net6.0\MorvieReview.Application.pdb
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview.Infrastructure\bin\Release\net6.0\MorvieReview.Domain.pdb
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview.Infrastructure\obj\Release\net6.0\MorvieReview.Infrastructure.csproj.AssemblyReference.cache
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview.Infrastructure\obj\Release\net6.0\MorvieReview.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview.Infrastructure\obj\Release\net6.0\MorvieReview.Infrastructure.AssemblyInfoInputs.cache
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview.Infrastructure\obj\Release\net6.0\MorvieReview.Infrastructure.AssemblyInfo.cs
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview.Infrastructure\obj\Release\net6.0\MorvieReview.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview.Infrastructure\obj\Release\net6.0\MorvieReview.Infrastructure.csproj.CopyComplete
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview.Infrastructure\obj\Release\net6.0\MorvieReview.Infrastructure.dll
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview.Infrastructure\obj\Release\net6.0\refint\MorvieReview.Infrastructure.dll
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview.Infrastructure\obj\Release\net6.0\MorvieReview.Infrastructure.pdb
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview.Infrastructure\obj\Release\net6.0\ref\MorvieReview.Infrastructure.dll

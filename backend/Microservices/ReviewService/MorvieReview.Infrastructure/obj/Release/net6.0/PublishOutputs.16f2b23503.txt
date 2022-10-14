@@ -1,0 +1,9 @@
+D:\Fontys\Morvie-S6\backend\out\MorvieReview.Infrastructure.dll
+D:\Fontys\Morvie-S6\backend\out\MorvieReview.Infrastructure.deps.json
+D:\Fontys\Morvie-S6\backend\out\MorvieReview.Infrastructure.pdb
+D:\Fontys\Morvie-S6\backend\out\MediatR.dll
+D:\Fontys\Morvie-S6\backend\out\MediatR.Contracts.dll
+D:\Fontys\Morvie-S6\backend\out\MorvieReview.Application.dll
+D:\Fontys\Morvie-S6\backend\out\MorvieReview.Domain.dll
+D:\Fontys\Morvie-S6\backend\out\MorvieReview.Application.pdb
+D:\Fontys\Morvie-S6\backend\out\MorvieReview.Domain.pdb
