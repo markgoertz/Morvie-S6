@@ -13,7 +13,7 @@ jobs:
     
     defaults:
       run:
-        working-directory: "./backend/Microservices/ReviewService/MorvieReview"
+        working-directory: "./backend/Microservices/ReviewService/MorvieReview.API"
 
     steps:
     - uses: actions/checkout@v3
