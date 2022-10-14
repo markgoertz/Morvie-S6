@@ -1,0 +1,25 @@
+version: '3.4'
+
+networks:
+  backend:
+
+services:
+  ocelotapigateway:
+    container_name: api-gateway
+    image: ${DOCKER_REGISTRY-}ocelotapigateway
+    build:
+      context: .
+      dockerfile: ApiGateway/OcelotApiGateway/Dockerfile
+    ports:
+      - 5100:80
+    networks:
+      - backend
+
+  morvie-review.api:
+    container_name: review-microservice
+    image: ${DOCKER_REGISTRY-}morviereviewapi
+    build:
+      context: .
+      dockerfile: Microservices/Review-service/Morvie-Review/Dockerfile
+    networks:
+      - backend
