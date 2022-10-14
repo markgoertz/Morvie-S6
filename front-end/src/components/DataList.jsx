@@ -6,7 +6,7 @@ function DataList() {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    axios("http://localhost:8000")
+    axios("http://localhost:8000/")
       .then((response) => {
         setError(null);
         setContacts(response.data);

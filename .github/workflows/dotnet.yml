@@ -4,7 +4,7 @@ on:
   push:    
   pull_request:
     branches: ["main"]
-    paths: ["backend/**"]
+    paths: ["back-end/**"]
 
 jobs:
   build:
@@ -13,7 +13,7 @@ jobs:
     
     defaults:
       run:
-        working-directory: "/backend"
+        working-directory: "/back-end"
 
     steps:
     - uses: actions/checkout@v3
