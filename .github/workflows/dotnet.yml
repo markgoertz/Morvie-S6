@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: "./back-end/Microservices/Review"
+        working-directory: "/back-end/Microservices/Review"
 
     steps:
     - uses: actions/checkout@v3
