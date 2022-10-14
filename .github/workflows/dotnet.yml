@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        dir : ['./back-end/Microservices/Review-services']
+        dir : ['./back-end/Microservices/Review-service/Morvie-Review']
 
     steps:
     - uses: actions/checkout@v3
