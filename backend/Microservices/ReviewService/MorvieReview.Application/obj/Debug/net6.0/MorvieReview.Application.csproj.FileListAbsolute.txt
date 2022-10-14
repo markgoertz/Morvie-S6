@@ -1,0 +1,15 @@
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview.Application\bin\Debug\net6.0\MorvieReview.Application.deps.json
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview.Application\bin\Debug\net6.0\MorvieReview.Application.dll
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview.Application\bin\Debug\net6.0\MorvieReview.Application.pdb
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview.Application\bin\Debug\net6.0\MorvieReview.Domain.dll
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview.Application\bin\Debug\net6.0\MorvieReview.Domain.pdb
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview.Application\obj\Debug\net6.0\MorvieReview.Application.csproj.AssemblyReference.cache
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview.Application\obj\Debug\net6.0\MorvieReview.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview.Application\obj\Debug\net6.0\MorvieReview.Application.AssemblyInfoInputs.cache
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview.Application\obj\Debug\net6.0\MorvieReview.Application.AssemblyInfo.cs
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview.Application\obj\Debug\net6.0\MorvieReview.Application.csproj.CoreCompileInputs.cache
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview.Application\obj\Debug\net6.0\MorvieReview.Application.csproj.CopyComplete
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview.Application\obj\Debug\net6.0\MorvieReview.Application.dll
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview.Application\obj\Debug\net6.0\refint\MorvieReview.Application.dll
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview.Application\obj\Debug\net6.0\MorvieReview.Application.pdb
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview.Application\obj\Debug\net6.0\ref\MorvieReview.Application.dll

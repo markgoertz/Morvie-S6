@@ -1,0 +1,30 @@
+networks:
+  backend: {}
+services:
+  morvie-review.api:
+    build:
+      context: D:\Fontys\Morvie-S6\backend
+      dockerfile: Microservices/ReviewService/MorvieReview/Dockerfile
+    container_name: review-microservice
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: morviereviewapi
+    networks:
+      backend: {}
+    ports:
+    - target: 80
+  ocelotapigateway:
+    build:
+      context: D:\Fontys\Morvie-S6\backend
+      dockerfile: ApiGateway/OcelotApiGateway/Dockerfile
+    container_name: api-gateway
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: ocelotapigateway
+    networks:
+      backend: {}
+    ports:
+    - published: 5100
+      target: 80
+    - target: 80
+version: '3.4'
