@@ -1,0 +1,3 @@
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview\Out\MorvieReview.Domain.dll
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview\Out\MorvieReview.Domain.deps.json
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview\Out\MorvieReview.Domain.pdb

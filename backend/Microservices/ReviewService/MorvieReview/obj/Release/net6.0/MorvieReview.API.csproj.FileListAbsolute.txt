@@ -34,3 +34,11 @@ D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview\obj\Release
 D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview\obj\Release\net6.0\MorvieReview.API.pdb
 D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview\obj\Release\net6.0\MorvieReview.API.genruntimeconfig.cache
 D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview\obj\Release\net6.0\ref\MorvieReview.API.dll
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview\bin\Release\net6.0\Out\web.config
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview\bin\Release\net6.0\Out\appsettings.Development.json
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview\bin\Release\net6.0\Out\appsettings.json
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview\bin\Release\net6.0\Out\MorvieReview.API.deps.json
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview\bin\Release\net6.0\Out\MorvieReview.API.runtimeconfig.json
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview\bin\Release\net6.0\Out\MorvieReview.Application.deps.json
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview\bin\Release\net6.0\Out\MorvieReview.Domain.deps.json
+D:\Fontys\Morvie-S6\backend\Microservices\ReviewService\MorvieReview\bin\Release\net6.0\Out\MorvieReview.Infrastructure.deps.json
