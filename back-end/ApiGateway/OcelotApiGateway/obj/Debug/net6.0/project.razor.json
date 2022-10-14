@@ -1,5 +1,5 @@
 {
-  "FilePath": "d:\\Fontys\\Morvie-S6\\back-end\\Microservices\\Review-service\\Morvie-Review\\Morvie-Review.API.csproj",
+  "FilePath": "d:\\Fontys\\Morvie-S6\\back-end\\ApiGateway\\OcelotApiGateway\\OcelotApiGateway.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16295,7 +16295,7 @@
     ],
     "CSharpLanguageVersion": 1000
   },
-  "RootNamespace": "Morvie_Review",
+  "RootNamespace": "OcelotApiGateway",
   "Documents": [],
   "SerializationFormat": "0.2"
 }
