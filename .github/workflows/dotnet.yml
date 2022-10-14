@@ -13,7 +13,7 @@ jobs:
     
     defaults:
       run:
-        working-directory: "/back-end/Microservices/Review-service/Morvie-Review/Morvie-Review.sln"
+        working-directory: "/back-end"
 
     steps:
     - uses: actions/checkout@v3
